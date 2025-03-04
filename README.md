@@ -49,7 +49,7 @@ The app uses the **MVVM (Model-View-ViewModel)** pattern:
 </p>
 
 Video Preview:
-https://drive.google.com/drive/u/0/folders/19K5ooSZE5s-6_9l7tqy1_ZOLHhxVDVWO
+https://drive.google.com/file/d/1Ak2x9TBLfuO-ehzDZHrbhG677HbgVtu7/view?usp=sharing
 
 ---
 
